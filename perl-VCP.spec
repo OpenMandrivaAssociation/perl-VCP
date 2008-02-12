@@ -21,7 +21,6 @@ BuildRequires:  perl-XML-Parser
 BuildRequires:  perl-Regexp-Shellish
 BuildArch:      noarch
 %description
-
 vcp (and the Perl module VCP.pm) is a system for copying resources
 under version control between repositories. cvs, p4 and RevML files
 are currently supported.

@@ -5,7 +5,7 @@
 
 Name:		perl-%{realname}
 Version:	0.9
-Release:	%mkrel 0.autrijus.%{date}.5
+Release:	%mkrel 0.autrijus.%{date}.6
 License:	BSD
 Group:		Development/Perl
 Summary:    	Perl modules to copy ressources between cvs, p4 and RevML

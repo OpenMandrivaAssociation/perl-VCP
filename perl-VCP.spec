@@ -11,7 +11,7 @@ Group:		Development/Perl
 Summary:    	Perl modules to copy ressources between cvs, p4 and RevML
 # http://search.cpan.org/CPAN/authors/id/A/AU/AUTRIJUS/VCP-autrijus-snapshot-0.9-20050110.tar.gz
 Source0:    	%{tar_name}.tar.bz2
-Url:		http://www.cpan.org
+Url:		https://www.cpan.org
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:  perl-HTML-Tree 
 BuildRequires:  perl-IPC-Run3 
